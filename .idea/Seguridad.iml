@@ -2,9 +2,17 @@
 <module type="PYTHON_MODULE" version="4">
   <component name="NewModuleRootManager">
     <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/ejercicio1-caesar" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/ejercicio2-ADFGVX" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/ejercicio3-CBdoble" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/ejercicio4-portabellaso" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/ejercicio5-playfair" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/ejercicio6-cb" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/ejercicio8-ubchi" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/ejercicio9-vigenere" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/venv" />
     </content>
-    <orderEntry type="jdk" jdkName="Python 3.7 (Seguridad)" jdkType="Python SDK" />
+    <orderEntry type="jdk" jdkName="Python 3.8 (env)" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
   <component name="TestRunnerService">
