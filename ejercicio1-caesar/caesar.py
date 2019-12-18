@@ -1,9 +1,7 @@
-criptograma = "UJPDNAAJMNERNCWJVODNDWLXWOURLCXKNURLXYJAJRVYNMRAUJANDWRORLJLRXWMNERNCWJVKJSXDWPXKRNAWXLXVDWRBCJNWM"
-
+criptograma = "UJ PDNAAJ MN ERNCWJV ODNDWLXWOURLCXKNURLXYJAJRVYNMRAUJANDWRORLJLRXWMNERNCWJVKJSXDWPXKRNAWXLXVDWRBCJNWM"
 print("Criptograma: " + criptograma)
 
-
-for d in range(1,26):
+for d in range(0,26):
     mensaje = ""
     for c in range(len(criptograma)):
         letra = criptograma[c]
